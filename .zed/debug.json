@@ -1,0 +1,12 @@
+// Project-local debug tasks
+//
+// For more documentation on how to configure debug tasks,
+// see: https://zed.dev/docs/debugger
+[
+  {
+    "name": "Launch Java Application",
+    "type": "java",
+    "request": "launch",
+    "mainClass": "coffeeshop.Main",
+  },
+]
